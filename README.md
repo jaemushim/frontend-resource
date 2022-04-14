@@ -17,3 +17,4 @@ a repo for usefull resource related front-end
 
 ## Posts
 - [4 Techniques for Structuring Next.js Applications](https://blog.rstankov.com/structuring-next-js-application/)
+- [Passwordless Authentication with Next.js, Prisma, and next-auth](https://dev.to/prisma/passwordless-authentication-with-next-js-prisma-and-next-auth-5g8g)
