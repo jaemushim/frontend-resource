@@ -12,7 +12,7 @@ a repo for usefull resource related front-end
 ## 📚️ Ui Libraries
 - [Chakra UI](https://chakra-ui.com/)
   - [awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui)
-
+  - [chakra-react-select](https://github.com/csandman/chakra-react-select)
 # Next
 
 ## Posts
