@@ -13,8 +13,9 @@ a repo for usefull resource related front-end
   - [Custom Alert Dialog in React](https://inprod.dev/blog/2020-04-13-react-confirm-dialog/)
 
   ## Architecture
+  - [File Structure](https://reactjs.org/docs/faq-structure.html#avoid-too-much-nesting)
   - [Evolution of a React folder structure and why to group by features right away](https://profy.dev/article/react-folder-structure)
-
+  - [React folder structure for enterprise level applications](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
   ## Libraries
   - [Chakra UI](https://chakra-ui.com/)
     - [awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui)
