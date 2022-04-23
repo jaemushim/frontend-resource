@@ -4,7 +4,8 @@ a repo for usefull resource related front-end
 # Javascript
 
 ## Concept
-  - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#8-iife-modules-and-namespaces)
 
 # React
 
