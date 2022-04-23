@@ -20,6 +20,8 @@ a repo for usefull resource related front-end
   - [File Structure](https://reactjs.org/docs/faq-structure.html#avoid-too-much-nesting)
   - [Evolution of a React folder structure and why to group by features right away](https://profy.dev/article/react-folder-structure)
   - [React folder structure for enterprise level applications](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
+  - [bulletproof-react](https://github.com/alan2207/bulletproof-react)
+ 
   ## Libraries
   - [Chakra UI](https://chakra-ui.com/)
     - [awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui)
