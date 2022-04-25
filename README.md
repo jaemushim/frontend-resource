@@ -41,6 +41,6 @@ a repo for usefull resource related front-end
 # Tools
 - [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api)
 
-#MISC
+# MISC
 ## Date
 - [Managing Dates and Times in JavaScript Using date-fns](https://www.sitepoint.com/date-fns-javascript-date-library/)
