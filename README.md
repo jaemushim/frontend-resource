@@ -42,5 +42,10 @@ a repo for usefull resource related front-end
 - [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api)
 
 # MISC
+
+## Naming
+- [Newbie's Cheatsheet: Commonly used verbs for naming functions, methods and variables](https://dev.to/maikomiyazaki/beginner-s-cheat-sheet-commonly-used-verbs-for-naming-functions-methods-and-variables-509i)
+- [Coding like Shakespeare: Practical Function Naming Conventions](https://dmitripavlutin.com/coding-like-shakespeare-practical-function-naming-conventions/)
+
 ## Date
 - [Managing Dates and Times in JavaScript Using date-fns](https://www.sitepoint.com/date-fns-javascript-date-library/)
