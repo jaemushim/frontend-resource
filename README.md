@@ -49,3 +49,7 @@ a repo for usefull resource related front-end
 
 ## Date
 - [Managing Dates and Times in JavaScript Using date-fns](https://www.sitepoint.com/date-fns-javascript-date-library/)
+
+
+# CSS
+ - [Write Proper CSS: Be Careful With the Descendant Selector](https://medium.com/irrelevant-code/write-proper-css-be-careful-with-the-descendant-selector-3e5bc02d1488)
