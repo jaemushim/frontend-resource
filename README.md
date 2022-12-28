@@ -54,6 +54,6 @@ a repo for usefull resource related front-end
 # CSS
  - [Write Proper CSS: Be Careful With the Descendant Selector](https://medium.com/irrelevant-code/write-proper-css-be-careful-with-the-descendant-selector-3e5bc02d1488)
  - [CSS Naming Conventions that Will Save You Hours of Debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
-
+- [Write Proper CSS: Be Careful With the Descendant Selector](https://medium.com/irrelevant-code/write-proper-css-be-careful-with-the-descendant-selector-3e5bc02d1488)
 
 
