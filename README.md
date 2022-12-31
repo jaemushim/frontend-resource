@@ -2,7 +2,7 @@
 a repo for usefull resource related front-end
 
 # UI
-  -[css layout (width BEM)](https://csslayout.io/t)
+  - [css layout (width BEM)](https://csslayout.io/t)
 
 # Javascript
 
