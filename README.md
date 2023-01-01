@@ -58,5 +58,5 @@ a repo for usefull resource related front-end
  - [Write Proper CSS: Be Careful With the Descendant Selector](https://medium.com/irrelevant-code/write-proper-css-be-careful-with-the-descendant-selector-3e5bc02d1488)
  - [CSS Naming Conventions that Will Save You Hours of Debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
 - [Write Proper CSS: Be Careful With the Descendant Selector](https://medium.com/irrelevant-code/write-proper-css-be-careful-with-the-descendant-selector-3e5bc02d1488)
-- [Structuring your Sass Projects]([https://medium.com/irrelevant-code/write-proper-css-be-careful-with-the-descendant-selector-3e5bc02d1488](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4))
+- [Structuring your Sass Projects](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4))
 
