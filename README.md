@@ -31,6 +31,13 @@ a repo for usefull resource related front-end
     - [awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui)
     - [chakra-react-select](https://github.com/csandman/chakra-react-select)
 
+  ## 아토믹 디자인 패턴
+  - [Effective Atomic Design](https://kciter.so/posts/effective-atomic-design)
+  - [Atomic Design Pattern의 Best Practice 여정기](https://yozm.wishket.com/magazine/detail/1531/)
+  - [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
+  - [Stop Using Atomic Design Pattern](https://jbee.io/react/stop-using-atomic-design/)
+  - [React 로 진행한 프로젝트에서 Atomic Design 패턴을 걷어낸 이유](https://itam.tistory.com/91)
+  - 
 # Next
 
   ## Concept
